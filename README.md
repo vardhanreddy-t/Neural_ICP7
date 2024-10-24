@@ -1,5 +1,10 @@
 # Neural_ICP7
-ICP – 7
+
+PRIYA VARDHAN REDDY                                700764913
+
+
+Video Link:https://drive.google.com/file/d/19jUyI02vnqBv_18qF14rFnlHwEJtPAWb/view?usp=sharing
+
 
 
  
