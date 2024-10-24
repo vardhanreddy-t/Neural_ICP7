@@ -6,6 +6,8 @@ ICP – 7
 
 Q1:
 Code:
+![image](https://github.com/user-attachments/assets/a133f0ef-27ee-447e-b838-c50501f8214e)
+
  
  
 Explanation:
@@ -23,12 +25,14 @@ Explanation:
 7.	Determine Sentiment: The sentiment with the highest probability is selected as the predicted sentiment for the input text.
 
 Output:
- 
+ ![image](https://github.com/user-attachments/assets/da082e63-121e-42cb-8572-184bc681e0a6)
+
 
 
 Q2:
 Code:
- 
+ ![image](https://github.com/user-attachments/assets/38591d9e-4656-47f8-862f-196fbd74c0d7)
+
  
 
 Explanation:
@@ -44,4 +48,5 @@ Explanation:
 6.	Results Summary: Finally, the best performance score and the hyperparameters that led to this best score are printed. This provides insights into which settings worked best for the given text classification task.
  
 Output:
- 
+ ![image](https://github.com/user-attachments/assets/bd6998da-b0f0-4a14-8cc0-0a600251507d)
+
